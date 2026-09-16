@@ -60,7 +60,7 @@ public class Calificacion {
         System.out.println("Calificación: " + calificacion);
     }
 
-    // Método principal (main) para la ejecución de la prueba
+    // Método principal
     public static void main(String[] args) {
         // Datos
         String nombre = "Manuel Noriega";
